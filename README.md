@@ -24,6 +24,7 @@ go get github.com/leodido/go-urn
 4. Normalization as per RFCs
 5. Lexical equivalence as per RFCs
 6. Precise, fine-grained errors
+7. Immutable, JSON-persistable edit plans with byte-faithful reassembly, component merges, conflicts and rebasing
 
 ## Performances
 
